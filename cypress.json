@@ -1,0 +1,7 @@
+{
+  "viewportWidth": 1280,
+  "viewportHeight": 1024,
+  "defaultCommmandTimeout": 20000,
+  "requestTimeout": 20000, 
+  "projectId": "99c511"
+}
